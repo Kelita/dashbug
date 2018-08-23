@@ -5,7 +5,6 @@ Privacy Policy provides information on how personal data or information is colle
 Dashbug does not collect any sort of information nor does it has access to your device data network.
 Dashbug doesn’t have access to read your device or mac address for your phone’s wifi or Bluetooth.
 
-
 # Personal Information
 
 Personal information is data that can be used to uniquely identify or contact a single person. Dashbug does not collect, transmit, store or use any personal information while you use it.
@@ -17,17 +16,15 @@ Dashbug does not  collect non-personal information like user’s behavior:
 To solve App problems.
 To show personalized ads.
 
-
- # Children's Privacy
+# Children's Privacy
  
  This application has no age restrictions.
 
- # Changes To This Privacy Policy
+# Changes To This Privacy Policy
  
- This privacy policy may be updated from time to time as the functionalities of the software are further developed and improved and may likely contain disparities that will nullify this current policy.
+This privacy policy may be updated from time to time as the functionalities of the software are further developed and improved and may likely contain disparities that will nullify this current policy.
 Any changes would be made to this document.
 
 # Privacy questions
 
-If you have any questions or concern about Dashbug Privacy Policy, please contact me via
-Email: lazarjelic98@gmail.com
+If you have any questions or concern about Dashbug Privacy Policy, please contact me at lazarjelic98@gmail.com
